@@ -364,3 +364,4 @@ FodyWeavers.xsd
 
 Class3.cs
 Models/Test.cs
+/Views/Login.cs
