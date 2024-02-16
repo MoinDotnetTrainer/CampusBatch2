@@ -11,6 +11,10 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+
+            int x = 324, y = 35, z;
+            z = x + y;
+            Console.WriteLine("Add is :" + z);
         }
     }
 }
