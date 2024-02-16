@@ -14,7 +14,7 @@ namespace ConsoleApp2
 
             int x = 324, y = 35, z;
             z = x + y;
-            Console.WriteLine("Add is :" + z);
+            Console.WriteLine("Add is ::" + z);
         }
     }
 }
