@@ -49,6 +49,7 @@
     <Compile Include="Demo.cs" />
     <Compile Include="Models\Emp.cs" />
     <Compile Include="Models\STD.cs" />
+    <Compile Include="Models\Test.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
