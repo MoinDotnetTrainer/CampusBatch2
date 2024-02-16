@@ -365,3 +365,7 @@ FodyWeavers.xsd
 Class3.cs
 Models/Test.cs
 /Views/Login.cs
+Controller/
+/Repo/
+Class1.cs
+Class3.cs
